@@ -38,6 +38,11 @@ Although the object is in the global scope, it is not available until after the 
 - device.platform
 - device.uuid
 - device.version
+- device.cid
+- device.lac
+- device.mnc
+- device.mcc
+
 
 ## device.cordova
 
